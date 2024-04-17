@@ -27,7 +27,7 @@ body{
 
 .left-section h2{
     color: #364670;
-    margin-bottom: 15px;
+    margin-bottom: 16px;
     text-align: center;
 }
 
@@ -444,7 +444,7 @@ body{
     }
 
     .left-section h2{
-        font-size: 17px;
+        font-size: 1rem;
     }
 
     .left-section .sidebar .item{
